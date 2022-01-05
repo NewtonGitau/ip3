@@ -1,7 +1,7 @@
 # Delani Studio
 
 ## Description.
-This is a webpage design for Delani Studio detauling all design, development and services conducted.
+This is a webpage design for Delani Studio detailing all design, development and services conducted.
 
 ## Version
 Current version V1.0
