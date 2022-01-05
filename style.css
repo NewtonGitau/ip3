@@ -62,3 +62,17 @@ h3 {
     font-size: em;
     margin-top: 0.25em;
 }
+* {
+    box-sizing: border-box;
+}
+  
+.row {
+    display: flex;
+}
+.col {
+    /* float: left;
+    width: 25%; */
+    flex: 25%;
+    padding: 5px;
+}
+  
